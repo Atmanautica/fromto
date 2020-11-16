@@ -34,7 +34,7 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts start --port 4444",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
     "test": "react-scripts test",
